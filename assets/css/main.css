@@ -4157,6 +4157,10 @@ input, select, textarea {
 
 	.skills-list{
 		list-style: none;
+
+	}
+
+	.skills-list-container{
 		display: flex;
 		justify-content: space-around;
 	}
