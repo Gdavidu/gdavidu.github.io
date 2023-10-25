@@ -4158,10 +4158,12 @@ input, select, textarea {
 	.skills-list{
 		list-style: none;
 		display: flex;
+		justify-content: space-around;
+		align-items: center;
 	}
 
 	.skills-list-container{
 		display: flex;
 		flex-direction: column;
-		
+		align-items: center;
 	}
