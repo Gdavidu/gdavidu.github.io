@@ -4157,6 +4157,7 @@ input, select, textarea {
 
 	.skills-list{
 		list-style: none;
+		width: 100%;
 		display: flex;
 		justify-content: space-around;
 		align-items: center;
@@ -4165,7 +4166,7 @@ input, select, textarea {
 	.skills-list-container{
 		display: flex;
 		flex-direction: column;
-		align-items: center;
+		align-items: flex-start;
 	}
 
 	.skills{
