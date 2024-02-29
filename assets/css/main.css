@@ -4171,4 +4171,6 @@ input, select, textarea {
 
 	.skills{
 		display: flex;
+		align-items: center;
+
 	}
